@@ -22,5 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "modern-compose-android-app-template"
+rootProject.name = "Wacom4A"
 include(":app")
